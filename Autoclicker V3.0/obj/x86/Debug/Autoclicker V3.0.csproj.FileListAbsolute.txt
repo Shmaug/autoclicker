@@ -1,0 +1,23 @@
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.exe
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.pdb
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Properties.Resources.resources
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.csproj.GenerateResource.Cache
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.exe
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.pdb
+c:\users\trevor\documents\visual studio 2010\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Autoclicker.resources
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.exe
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.pdb
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.exe
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.pdb
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Autoclicker.resources
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Properties.Resources.resources
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.csproj.GenerateResource.Cache
+C:\Users\Trevor\Desktop\Programming\Visual C#\My Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.exe
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.pdb
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Autoclicker.resources
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker_V3._0.Properties.Resources.resources
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\obj\x86\Debug\Autoclicker V3.0.csproj.GenerateResource.Cache
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.exe
+C:\Users\Trevor\Desktop\Projects\Autoclicker V3.0\Autoclicker V3.0\bin\Debug\Autoclicker V3.0.pdb
